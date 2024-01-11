@@ -1,0 +1,15 @@
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\Business_Access_Layer.deps.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\Business_Access_Layer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\Business_Access_Layer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\Business_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\Business_Access_Layer.AssemblyInfoInputs.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\Business_Access_Layer.AssemblyInfo.cs
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\Business_Access_Layer.csproj.CoreCompileInputs.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\Business_Access_Layer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\refint\Business_Access_Layer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\Business_Access_Layer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ref\Business_Access_Layer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\Data_Access_Layer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\Data_Access_Layer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\Business_Access_Layer.csproj.AssemblyReference.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\Business_Access_Layer.csproj.CopyComplete

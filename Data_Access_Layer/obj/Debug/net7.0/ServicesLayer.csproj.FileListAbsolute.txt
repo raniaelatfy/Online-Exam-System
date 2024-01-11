@@ -1,0 +1,14 @@
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ServicesLayer.csproj.AssemblyReference.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ServicesLayer.AssemblyInfoInputs.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ServicesLayer.AssemblyInfo.cs
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ServicesLayer.csproj.CoreCompileInputs.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\bin\Debug\net7.0\ServicesLayer.deps.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\bin\Debug\net7.0\ServicesLayer.runtimeconfig.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\bin\Debug\net7.0\ServicesLayer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\bin\Debug\net7.0\ServicesLayer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ServicesLayer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\refint\ServicesLayer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ServicesLayer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ServicesLayer.genruntimeconfig.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Data_Access_Layer\obj\Debug\net7.0\ref\ServicesLayer.dll

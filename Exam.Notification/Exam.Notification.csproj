@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business_Access_Layer\ApplicationLayer.Bussiness_Logic_Layer.csproj" />
+    <ProjectReference Include="..\Data_Access_Layer\RepositoryLayer.Data_Access_Layer.csproj" />
+  </ItemGroup>
+
+</Project>

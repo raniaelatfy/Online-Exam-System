@@ -1,0 +1,502 @@
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\appsettings.Development.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\appsettings.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.exe
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.deps.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.runtimeconfig.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\AutoMapper.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Azure.Core.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Azure.Identity.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Catel.Core.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Humanizer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Web.Http.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\MS.TF.Pipelines.WebApi.NetStandard.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Azure.DevOps.Comments.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Azure.Pipelines.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Build2.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Core.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Policy.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Test.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Wiki.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Work.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.CodeDom.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Data.SqlClient.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Memory.Data.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\ApplicationLayer.Bussiness_Logic_Layer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RepositoryLayer.Data_Access_Layer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\ApplicationLayer.Bussiness_Logic_Layer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RepositoryLayer.Data_Access_Layer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API.props
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API.props
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.pack.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.build.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.development.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\scopedcss\bundle\Web API.styles.css
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.CopyComplete
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\refint\Web API.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.genruntimeconfig.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\ref\Web API.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RabbitMQ.Client.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\refint\Web API.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.pdb
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\appsettings.Development.json
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\appsettings.json
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.exe
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.deps.json
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.runtimeconfig.json
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.pdb
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\AutoMapper.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Azure.Core.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Azure.Identity.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Catel.Core.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Humanizer.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Web.Http.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\MS.TF.Pipelines.WebApi.NetStandard.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Azure.DevOps.Comments.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Azure.Pipelines.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Build2.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Core.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Policy.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Test.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Wiki.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Work.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RabbitMQ.Client.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.CodeDom.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Data.SqlClient.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\ApplicationLayer.Bussiness_Logic_Layer.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RepositoryLayer.Data_Access_Layer.dll
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\ApplicationLayer.Bussiness_Logic_Layer.pdb
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RepositoryLayer.Data_Access_Layer.pdb
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API.props
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API.props
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.build.json
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.development.json
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\scopedcss\bundle\Web API.styles.css
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.CopyComplete
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.genruntimeconfig.cache
+F:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\ref\Web API.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\appsettings.json
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.exe
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.deps.json
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.runtimeconfig.json
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.pdb
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Catel.Core.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\MS.TF.Pipelines.WebApi.NetStandard.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Azure.Pipelines.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\ApplicationLayer.Bussiness_Logic_Layer.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RepositoryLayer.Data_Access_Layer.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\ApplicationLayer.Bussiness_Logic_Layer.pdb
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RepositoryLayer.Data_Access_Layer.pdb
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API.props
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API.props
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\scopedcss\bundle\Web API.styles.css
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.CopyComplete
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\refint\Web API.dll
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.pdb
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.genruntimeconfig.cache
+C:\Users\ncm\Desktop\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\ref\Web API.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\appsettings.Development.json
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\appsettings.json
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.exe
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.deps.json
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.runtimeconfig.json
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Web API.pdb
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\AutoMapper.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Azure.Core.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Azure.Identity.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Catel.Core.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Humanizer.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Web.Http.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\MS.TF.Pipelines.WebApi.NetStandard.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Azure.Pipelines.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.CodeDom.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\ApplicationLayer.Bussiness_Logic_Layer.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RepositoryLayer.Data_Access_Layer.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\ApplicationLayer.Bussiness_Logic_Layer.pdb
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\RepositoryLayer.Data_Access_Layer.pdb
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.build.json
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.development.json
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API.props
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API.props
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\scopedcss\bundle\Web API.styles.css
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.csproj.CopyComplete
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\refint\Web API.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.pdb
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\Web API.genruntimeconfig.cache
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\obj\Debug\net7.0\ref\Web API.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Exam Application\bin\Debug\net7.0\System.Web.Http.Cors.dll

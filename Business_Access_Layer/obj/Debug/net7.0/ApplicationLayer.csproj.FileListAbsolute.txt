@@ -1,0 +1,15 @@
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\ApplicationLayer.deps.json
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\ApplicationLayer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\ApplicationLayer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\ServicesLayer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\bin\Debug\net7.0\ServicesLayer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ApplicationLayer.csproj.AssemblyReference.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ApplicationLayer.AssemblyInfoInputs.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ApplicationLayer.AssemblyInfo.cs
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ApplicationLayer.csproj.CopyComplete
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ApplicationLayer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\refint\ApplicationLayer.dll
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ApplicationLayer.pdb
+H:\Rania mostafa elatfy Exam System\Exam System\Examnation System\Business_Access_Layer\obj\Debug\net7.0\ref\ApplicationLayer.dll
